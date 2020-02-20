@@ -11,7 +11,7 @@ public class Demo2 {
                 }
             }
             //质数i
-            System.out.print(i+" ");
+            System.out.print(i+" cc");
         }
     }
 }
