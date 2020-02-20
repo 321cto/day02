@@ -13,6 +13,7 @@ public class Demo2 {
             //质数i
             System.out.print(i+" cc");
         }
+        System.out.println("1122ccddddddd");
     }
 }
 
